@@ -4,7 +4,7 @@ _________
 ### Требования 
 * python версии 3.7 
 * Selenium версии 3.141.0
-* Chromedriver версия 
+* Chromedriver
 
 ### Локальный запуск
 
